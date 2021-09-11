@@ -17,21 +17,7 @@ Comment.init(
       validate: {
         len: [1],
       },
-    },
-    user_id: {
-      type: DataTypes.INTEGER,
-      references: {
-        model: "user",
-        key: "id",
-      },
-    },
-    post_id: {
-      type: DataTypes.INTEGER,
-      references: {
-        model: "post",
-        key: "id",
-      },
-    },
+    }
   },
   {
     sequelize,

@@ -4,7 +4,7 @@
 
 ## Description
 
-This application is best suited for users wanting to easily manage their stock database at any retail store. This is primarily accomplished through the package mysql2. Users have the option to view, create, update, and delete all categories, products, and tagss.
+This application is best suited for users wanting X. This is primarily accomplished through the package mysql2. Users have the option to view, create, update, and delete all posts.
 
 Made with:
 
